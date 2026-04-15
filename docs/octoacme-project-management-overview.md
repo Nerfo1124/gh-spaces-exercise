@@ -44,3 +44,5 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use [Roles and Personas](./octoacme-roles-and-personas.md) to clarify role ownership and collaboration expectations.
+- Use the [Cross-Functional Collaboration Checklist](./octoacme-cross-functional-collaboration-checklist.md) at each lifecycle handoff.

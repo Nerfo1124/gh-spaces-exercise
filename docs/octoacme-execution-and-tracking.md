@@ -38,3 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Related References
+- [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Cross-Functional Collaboration Checklist](./octoacme-cross-functional-collaboration-checklist.md)
