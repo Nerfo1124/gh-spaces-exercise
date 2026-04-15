@@ -41,3 +41,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Related References
+- [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Cross-Functional Collaboration Checklist](./octoacme-cross-functional-collaboration-checklist.md)
